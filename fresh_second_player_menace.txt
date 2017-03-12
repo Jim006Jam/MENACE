@@ -1,0 +1,289 @@
+x-------- 11 21 41 51 81 
+-x------- 01 31 41 61 71 
+----x---- 01 11 
+xox------ 31 41 51 61 71 81 
+xo-x----- 21 41 51 61 71 81 
+xo--x---- 21 31 51 61 71 81 
+xo---x--- 21 31 41 61 71 81 
+xo----x-- 21 31 41 51 71 81 
+xo-----x- 21 31 41 51 61 81 
+xo------x 21 31 41 51 61 71 
+xxo------ 31 41 51 61 71 81 
+x-ox----- 11 41 51 61 71 81 
+x-o-x---- 11 31 51 61 71 81 
+x-o--x--- 11 31 41 61 71 81 
+x-o---x-- 11 31 41 51 71 81 
+x-o----x- 11 31 41 51 61 81 
+x-o-----x 11 31 41 51 61 71 
+xx--o---- 21 31 51 61 71 81 
+x-x-o---- 11 31 51 61 71 81 
+x---ox--- 11 21 61 71 81 
+x---o---x 11 21 51 
+xx---o--- 21 31 41 61 71 81 
+x--x-o--- 11 21 41 61 71 81 
+x---xo--- 11 21 31 61 71 81 
+x----ox-- 11 21 31 41 71 81 
+x----o-x- 11 21 31 41 61 81 
+xx------o 21 31 41 51 61 71 
+x---x---o 11 21 51 61 
+x----x--o 11 21 31 41 61 71 
+ox-x----- 21 41 51 61 71 81 
+ox--x---- 21 31 51 61 71 81 
+ox---x--- 21 31 41 61 71 81 
+ox-----x- 21 31 41 51 61 81 
+-x-ox---- 01 51 61 71 81 
+-x-o-x--- 01 41 61 71 
+-x-o---x- 01 41 51 61 
+-x-xo---- 01 51 61 71 81 
+-x--o--x- 01 31 61 
+-x--x-o-- 01 21 31 51 71 81 
+-x---xo-- 01 21 31 41 71 81 
+-x--x--o- 01 31 51 61 
+xoxox---- 52 62 72 82 
+xoxo-x--- 42 62 72 82 
+xoxo--x-- 42 52 72 82 
+xoxo---x- 42 52 62 82 
+xoxo----x 42 52 62 72 
+xoxxo---- 52 62 72 82 
+xox-o-x-- 32 52 72 82 
+xox-o--x- 32 52 62 82 
+xoxx--o-- 42 52 72 82 
+xox-x-o-- 32 52 72 82 
+xox--xo-- 32 42 72 82 
+xox---ox- 32 42 52 82 
+xox---o-x 32 42 52 72 
+xoxx---o- 42 52 62 82 
+xox-x--o- 32 52 62 82 
+xox---xo- 32 42 52 82 
+xooxx---- 52 62 72 82 
+xoox-x--- 42 62 72 82 
+xoox---x- 42 52 62 82 
+xoox----x 42 52 62 72 
+xo-xox--- 22 62 72 82 
+xo-xo--x- 22 52 62 82 
+xo-xo---x 22 52 62 72 
+xo-xxo--- 22 62 72 82 
+xo-x-o-x- 22 42 62 82 
+xo-x-o--x 22 42 62 72 
+xo-xx-o-- 22 52 72 82 
+xo-x-xo-- 22 42 72 82 
+xo-x--ox- 22 42 52 82 
+xo-x--o-x 22 42 52 72 
+xo-xx--o- 22 52 62 82 
+xo-x-x-o- 22 42 62 82 
+xo-x---ox 22 42 52 62 
+xo-xx---o 22 52 62 72 
+xo-x-x--o 22 42 62 72 
+xo-x---xo 22 42 52 62 
+xoo-xx--- 32 62 72 82 
+xoo-x-x-- 32 52 72 82 
+xoo-x--x- 32 52 62 82 
+xo-oxx--- 22 62 72 82 
+xo--xox-- 22 32 72 82 
+xo--xo-x- 22 32 62 82 
+xo--xxo-- 22 32 72 82 
+xo--x-ox- 22 32 52 82 
+xo--xx-o- 22 32 62 82 
+xo--x-xo- 22 32 52 82 
+xo--xx--o 22 32 62 72 
+xo--x-x-o 22 32 52 72 
+xo--x--xo 22 32 52 62 
+xoo--xx-- 32 42 72 82 
+xoo--x-x- 32 42 62 82 
+xoo--x--x 32 42 62 72 
+xo-o-x-x- 22 42 62 82 
+xo-o-x--x 22 42 62 72 
+xo--oxx-- 22 32 72 82 
+xo--ox-x- 22 32 62 82 
+xo--ox--x 22 32 62 72 
+xo---xox- 22 32 42 82 
+xo---xo-x 22 32 42 72 
+xo---xxo- 22 32 42 82 
+xo---xx-o 22 32 42 72 
+xo---x-xo 22 32 42 62 
+xoo---xx- 32 42 52 82 
+xoo---x-x 32 42 52 72 
+xo--o-xx- 22 32 52 82 
+xo--o-x-x 22 32 52 72 
+xo---oxx- 22 32 42 82 
+xo---ox-x 22 32 42 72 
+xo----xxo 22 32 42 52 
+xoo----xx 32 42 52 62 
+xo--o--xx 22 32 52 62 
+xo----oxx 22 32 42 52 
+xxoxo---- 52 62 72 82 
+xxo-ox--- 32 62 72 82 
+xxo-o-x-- 32 52 72 82 
+xxo-o--x- 32 52 62 82 
+xxo-o---x 32 52 62 72 
+xxox-o--- 42 62 72 82 
+xxo-xo--- 32 62 72 82 
+xxo--ox-- 32 42 72 82 
+xxo--o-x- 32 42 62 82 
+xxox--o-- 42 52 72 82 
+xxo-x-o-- 32 52 72 82 
+xxo--xo-- 32 42 72 82 
+xxo---ox- 32 42 52 82 
+xxo---o-x 32 42 52 72 
+xxox---o- 42 52 62 82 
+xxo-x--o- 32 52 62 82 
+xxo--x-o- 32 42 62 82 
+xxox----o 42 52 62 72 
+xxo-x---o 32 52 62 72 
+xxo--x--o 32 42 62 72 
+xxo---x-o 32 42 52 72 
+xxo----xo 32 42 52 62 
+x-oxox--- 12 62 72 82 
+x-oxo--x- 12 52 62 82 
+x-oxo---x 12 52 62 72 
+x-oxxo--- 12 62 72 82 
+x-ox-o-x- 12 42 62 82 
+x-oxx--o- 12 52 62 82 
+x-ox-x-o- 12 42 62 82 
+x-oxx---o 12 52 62 72 
+x-ox-x--o 12 42 62 72 
+x-ox---xo 12 42 52 62 
+x-o-xox-- 12 32 72 82 
+x-o-xo-x- 12 32 62 82 
+x-o-xxo-- 12 32 72 82 
+x-o-xx-o- 12 32 62 82 
+x-o-xx--o 12 32 62 72 
+x-o-x-x-o 12 52 
+x-o-x--xo 12 32 52 62 
+x-o-oxx-- 12 32 72 82 
+x-o-ox-x- 12 32 62 82 
+x-o--xox- 12 32 42 82 
+x-o--xx-o 12 32 42 72 
+x-o--x-xo 12 32 42 62 
+x-o-o-xx- 12 32 52 82 
+x-o-o-x-x 12 52 
+x-o--oxx- 12 32 42 82 
+xx-xoo--- 22 62 72 82 
+xx--oox-- 22 32 72 82 
+xx--oo-x- 22 32 62 82 
+xx--ox-o- 22 32 62 82 
+xx-xo---o 22 52 62 72 
+xx--ox--o 22 32 62 72 
+xx--o--xo 22 32 52 62 
+x---ox-xo 12 22 32 62 
+xx-x-o-o- 22 42 62 82 
+xx--xo-o- 22 32 62 82 
+xx-x-o--o 22 42 62 72 
+xx--xo--o 22 32 62 72 
+xx---o-xo 22 32 42 62 
+x--xxo--o 12 22 62 72 
+x--x-o-xo 12 22 42 62 
+x---xo-xo 12 22 32 62 
+oxoxx---- 52 62 72 82 
+oxox-x--- 42 62 72 82 
+oxox---x- 42 52 62 82 
+ox-xox--- 22 62 72 82 
+ox-xxo--- 22 62 72 82 
+ox-x-o-x- 22 42 62 82 
+ox-xx---o 22 52 62 72 
+ox-x-x--o 22 42 62 72 
+ox-oxx--- 22 62 72 82 
+ox--xxo-- 22 32 72 82 
+ox--xx-o- 22 32 62 82 
+ox--xx--o 22 32 62 72 
+ox-o-x-x- 22 42 62 82 
+ox--ox-x- 22 32 62 82 
+ox---xox- 22 32 42 82 
+-x-oxxo-- 02 22 72 82 
+-x-oxx-o- 02 62 
+-x-oox-x- 02 62 
+xoxoxo-x- 63 83 
+xoxoxxo-- 73 83 
+xoxox-ox- 53 83 
+xoxoxx-o- 63 83 
+xoxoxx--o 63 73 
+xoxox--xo 53 63 
+xoxooxx-- 73 83 
+xoxoox-x- 63 83 
+xoxo-xox- 43 83 
+xoxo-xxo- 43 83 
+xoxo-xx-o 43 73 
+xoxo-x-xo 43 63 
+xoxoo-x-x 53 73 
+xoxo-ox-x 43 73 
+xoxoo--xx 53 63 
+xoxo--oxx 43 53 
+xoxxoxo-- 73 83 
+xoxxo-ox- 53 83 
+xoxxo-o-x 53 73 
+xoxxo--xo 53 63 
+xox-o-xxo 33 53 
+xoxxx-oo- 53 83 
+xoxx-xoo- 43 83 
+xoxx--oox 43 53 
+xoxxx-o-o 53 73 
+xoxx-xo-o 43 73 
+xoxx--oxo 43 53 
+xox-xxoo- 33 83 
+xox-x-oxo 33 53 
+xooxxo-x- 63 83 
+xooxx-ox- 53 83 
+xooxx--xo 53 63 
+xooxox-x- 63 83 
+xooxox--x 63 73 
+xoox-xox- 43 83 
+xoox-xo-x 43 73 
+xoox-x-ox 43 63 
+xoox-x-xo 43 63 
+xooxo--xx 53 63 
+xoox-o-xx 43 63 
+xoox--oxx 43 53 
+xo-xoxox- 23 83 
+xo-xoxo-x 23 73 
+xo-xox-xo 23 63 
+xo-xoo-xx 23 63 
+xo-xo-oxx 23 53 
+xo-xxoox- 23 83 
+xo-xxo-xo 23 63 
+xo-x-ooxx 23 43 
+xo-xx-oxo 23 53 
+xo-x-xoxo 23 43 
+xoooxx-x- 63 83 
+xoo-xxox- 33 83 
+xoo-xxxo- 33 83 
+xoo-xxx-o 33 73 
+xoo-xx-xo 33 63 
+xoo-xoxx- 33 83 
+xoo-x-xxo 33 53 
+xo-oxx-xo 23 63 
+xo--xoxxo 23 33 
+xo--xxoxo 23 33 
+xoo-oxxx- 33 83 
+xoo-oxx-x 33 73 
+xoo--xxxo 33 43 
+xooo-x-xx 43 63 
+xoo-ox-xx 33 63 
+xoo--xoxx 33 43 
+xo-oox-xx 23 63 
+xo--oxxxo 23 33 
+xo--oxoxx 23 33 
+xxoxoo-x- 63 83 
+xxoxox-o- 63 83 
+xxoxox--o 63 73 
+xxoxo--xo 53 63 
+xxo-oxx-o 33 73 
+xxo-ox-xo 33 63 
+xxo-ooxx- 33 83 
+xxo-o-xxo 33 53 
+xxoxxoo-- 73 83 
+xxox-oox- 43 83 
+xxoxxo-o- 63 83 
+xxoxx-o-o 53 73 
+xxox-xo-o 43 73 
+xxo-xxoo- 33 83 
+xxo-xxo-o 33 73 
+xxo--xoxo 33 43 
+xxoxx--oo 53 63 
+xxox-x-oo 43 63 
+xxo-xx-oo 33 63 
+x-oxox-xo 13 63 
+x-o-xxoxo 13 33 
+xx-xoo-xo 23 63 
+xx-xxo-oo 23 63 
+oxoxox-x- 63 83 
+oxox-xox- 43 83 
